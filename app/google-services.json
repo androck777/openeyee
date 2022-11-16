@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912324041169",
+    "project_id": "open-eye-b6236",
+    "storage_bucket": "open-eye-b6236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912324041169:android:9d70ffe4366906465968f0",
+        "android_client_info": {
+          "package_name": "bytes.seven.openeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912324041169-50qa342dujmqui3v12a2ogag2o0nibg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKGu7c6NW3PreWYyiQcuo0K1vCMhTo-04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912324041169-50qa342dujmqui3v12a2ogag2o0nibg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
